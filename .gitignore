@@ -1,0 +1,11 @@
+/.idea/
+/.ipynb*/
+/.vs/
+/cache/
+/data/
+/label/
+/model_pb/
+/test/
+*.zip
+/data/
+/__*/
